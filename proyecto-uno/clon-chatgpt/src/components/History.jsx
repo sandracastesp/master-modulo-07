@@ -2,7 +2,7 @@ import React from "react";
 
 export default function History({history}) {
   return (
-    <div className="flex flex-col h-screen w-64 bg-gray-900 text-white p-4 border-r border-gray-800">
+    <div className="flex flex-col h-screen w-80 bg-gray-900 text-white p-4 border-r border-gray-800">
       <div className="flex flex-col items-start">
         <h2 className="mb-4 font-bold">Historial de búsqueda</h2>
       </div>
