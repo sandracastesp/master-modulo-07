@@ -1,9 +1,10 @@
 import Form from "./components/Form";
+import Chat from './components/Chat';
 
 function App() {
   return (
-    <div className="min-h-screen flex items-center justify-center bg-gray-100">
-      <Form />
+    <div >
+      <Chat />
     </div>
   );
 }
